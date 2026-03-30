@@ -1,0 +1,4 @@
+on 30/03/2026
+.. we learn about dynamic routing and route segment and also rearn how to pass data one route to another route 
+
+.. now we learn about 404 page learn global and route specific 404 page
