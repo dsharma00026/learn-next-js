@@ -2,3 +2,8 @@ on 30/03/2026
 .. we learn about dynamic routing and route segment and also rearn how to pass data one route to another route 
 
 .. now we learn about 404 page learn global and route specific 404 page
+
+on 31/03/2026
+
+.. today we learn about middlewarea and how to use middleware in next.js
+..now also we make today simple todo app 
