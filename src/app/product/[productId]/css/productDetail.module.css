@@ -1,0 +1,87 @@
+.container {
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    flex-wrap: wrap;
+}
+
+/* LEFT */
+.imageSection {
+    flex: 1;
+    min-width: 300px;
+}
+
+.mainImg {
+    width: 100%;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* RIGHT */
+.detailsSection {
+    flex: 1;
+    min-width: 300px;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.brand {
+    color: #888;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+/* price */
+.priceRow {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 24px;
+    color: #2ecc71;
+    font-weight: bold;
+}
+
+.discount {
+    background: #e74c3c;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+
+/* meta info */
+.meta p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+/* button */
+.btn {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background: #2980b9;
+}
