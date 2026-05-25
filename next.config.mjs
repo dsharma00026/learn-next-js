@@ -2,6 +2,7 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
+<<<<<<< HEAD
   redirects: async () => {
     return [
       {
@@ -20,6 +21,11 @@ const nextConfig = {
         permanent:false
       }
     ]
+=======
+
+  images: {
+    domains: ["http://localhost:3000"],
+>>>>>>> 77e9aea7d4a7df69af718a1bd2d36f2b4a89e447
   }
 };
 

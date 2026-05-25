@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-first-app",
+=======
+  "name": "my-app",
+>>>>>>> 77e9aea7d4a7df69af718a1bd2d36f2b4a89e447
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +13,26 @@
     "lint": "eslint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "mongoose": "^9.6.2",
     "next": "^16.2.6",
+=======
+    "next": "16.2.1",
+>>>>>>> 77e9aea7d4a7df69af718a1bd2d36f2b4a89e447
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@tailwindcss/postcss": "^4",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.1",
     "tailwindcss": "^4"
+=======
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.1"
+>>>>>>> 77e9aea7d4a7df69af718a1bd2d36f2b4a89e447
   }
 }
